@@ -1,0 +1,1 @@
+[{"title": "ali", "author": "asghar", "year": 2024, "genre": "school life", "read_status": true}, {"title": "rich dad", "author": "mr ali", "year": 2024, "genre": "zero to hero", "read_status": true}]
